@@ -1,0 +1,36 @@
+2018-11-27 10:29:55 INFO [main] o.s.b.t.c.SpringBootTestContextBootstrapper
+                [AbstractTestContextBootstrapper.java:307] Neither @ContextConfiguration nor @ContextHierarchy found for test class [ng.upperlink.nibss.cmms.CmmsBankApplicationTests], using SpringBootContextLoader
+2018-11-27 10:29:55 INFO [main] o.s.t.c.s.AbstractContextLoader
+                [AbstractContextLoader.java:264] Could not detect default resource locations for test class [ng.upperlink.nibss.cmms.CmmsBankApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+2018-11-27 10:29:55 INFO [main] o.s.t.c.s.AnnotationConfigContextLoaderUtils
+                [AnnotationConfigContextLoaderUtils.java:82] Could not detect default configuration classes for test class [ng.upperlink.nibss.cmms.CmmsBankApplicationTests]: CmmsBankApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2018-11-27 10:29:55 INFO [main] o.s.b.t.c.SpringBootTestContextBootstrapper
+                [AbstractTestContextBootstrapper.java:307] Neither @ContextConfiguration nor @ContextHierarchy found for test class [ng.upperlink.nibss.cmms.UserManagementApplicationTests], using SpringBootContextLoader
+2018-11-27 10:29:55 INFO [main] o.s.t.c.s.AbstractContextLoader
+                [AbstractContextLoader.java:264] Could not detect default resource locations for test class [ng.upperlink.nibss.cmms.UserManagementApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+2018-11-27 10:29:55 INFO [main] o.s.t.c.s.AnnotationConfigContextLoaderUtils
+                [AnnotationConfigContextLoaderUtils.java:82] Could not detect default configuration classes for test class [ng.upperlink.nibss.cmms.UserManagementApplicationTests]: UserManagementApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2018-11-27 10:29:56 INFO [main] o.s.b.t.c.SpringBootTestContextBootstrapper
+                [AbstractTestContextBootstrapper.java:307] Neither @ContextConfiguration nor @ContextHierarchy found for test class [ng.upperlink.nibss.cmms.CmmsBankApplicationTests], using SpringBootContextLoader
+2018-11-27 10:29:56 INFO [main] o.s.t.c.s.AbstractContextLoader
+                [AbstractContextLoader.java:264] Could not detect default resource locations for test class [ng.upperlink.nibss.cmms.CmmsBankApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+2018-11-27 10:29:56 INFO [main] o.s.t.c.s.AnnotationConfigContextLoaderUtils
+                [AnnotationConfigContextLoaderUtils.java:82] Could not detect default configuration classes for test class [ng.upperlink.nibss.cmms.CmmsBankApplicationTests]: CmmsBankApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2018-11-27 10:29:56 INFO [main] o.s.b.t.c.SpringBootTestContextBootstrapper
+                [AbstractTestContextBootstrapper.java:307] Neither @ContextConfiguration nor @ContextHierarchy found for test class [ng.upperlink.nibss.cmms.UserManagementApplicationTests], using SpringBootContextLoader
+2018-11-27 10:29:56 INFO [main] o.s.t.c.s.AbstractContextLoader
+                [AbstractContextLoader.java:264] Could not detect default resource locations for test class [ng.upperlink.nibss.cmms.UserManagementApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+2018-11-27 10:29:56 INFO [main] o.s.t.c.s.AnnotationConfigContextLoaderUtils
+                [AnnotationConfigContextLoaderUtils.java:82] Could not detect default configuration classes for test class [ng.upperlink.nibss.cmms.UserManagementApplicationTests]: UserManagementApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2018-11-27 10:41:16 INFO [main] o.s.b.t.c.SpringBootTestContextBootstrapper
+                [AbstractTestContextBootstrapper.java:307] Neither @ContextConfiguration nor @ContextHierarchy found for test class [ng.upperlink.nibss.cmms.CmmsBankApplicationTests], using SpringBootContextLoader
+2018-11-27 10:41:16 INFO [main] o.s.t.c.s.AbstractContextLoader
+                [AbstractContextLoader.java:264] Could not detect default resource locations for test class [ng.upperlink.nibss.cmms.CmmsBankApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+2018-11-27 10:41:16 INFO [main] o.s.t.c.s.AnnotationConfigContextLoaderUtils
+                [AnnotationConfigContextLoaderUtils.java:82] Could not detect default configuration classes for test class [ng.upperlink.nibss.cmms.CmmsBankApplicationTests]: CmmsBankApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2018-11-27 10:41:16 INFO [main] o.s.b.t.c.SpringBootTestContextBootstrapper
+                [AbstractTestContextBootstrapper.java:307] Neither @ContextConfiguration nor @ContextHierarchy found for test class [ng.upperlink.nibss.cmms.CmmsBankApplicationTests], using SpringBootContextLoader
+2018-11-27 10:41:16 INFO [main] o.s.t.c.s.AbstractContextLoader
+                [AbstractContextLoader.java:264] Could not detect default resource locations for test class [ng.upperlink.nibss.cmms.CmmsBankApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+2018-11-27 10:41:16 INFO [main] o.s.t.c.s.AnnotationConfigContextLoaderUtils
+                [AnnotationConfigContextLoaderUtils.java:82] Could not detect default configuration classes for test class [ng.upperlink.nibss.cmms.CmmsBankApplicationTests]: CmmsBankApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.

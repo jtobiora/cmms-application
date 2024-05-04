@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org" xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+    <meta charset="UTF-8"></meta>
+    <title>Title</title>
+</head>
+<body>
+<style type="text/css" xmlns:text-decoration="http://www.w3.org/1999/xhtml">
+
+</style>
+
+<table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" style="background: rgba(242, 245, 247, 1);border-collapse:collapse;border-spacing:0;color:#313a45;font-family:'Open Sans', 'Arial', sans-serif;font-size:16px;line-height:1.4;margin:0;min-width:100%;padding:0;table-layout:fixed;width:100% !important;" bgcolor="#f4f4f4">
+    <tbody>
+    <tr style="padding:0;">
+        <td align="center" valign="top"  style="border-collapse:collapse;margin:0;min-width:100%;padding:20px 10px;width:100% !important;">
+            <table border="0" cellpadding="0" cellspacing="0" width="580" style="background:#fff;border-collapse:collapse;border-radius:8px;border-spacing:0;padding:0;table-layout:auto; box-shadow: 0 2px 3px -1px rgba(151, 171, 187, .7);" bgcolor="#fff">
+                <tbody>
+                <tr style="padding:0;">
+                    <td align="center" valign="middle" style="background:#f0e4ba; border-collapse:collapse;border-radius:8px 8px 0 0;min-height:55px;padding:0;" bgcolor="#313945">
+                        <a rel="nofollow" target="_blank" href="#" style="color:#00b2b2;text-decoration:none;">
+                            <img alt="NIBSS" title="NIBSS" style="border:none;min-height:55px !important;overflow-x:auto;max-width:100%;outline:none;text-decoration:none;vertical-align:middle;width:270px !important; margin: 10px 10px" th:src="@{${emailLogo}}"></img>
+                        </a>
+                    </td>
+                </tr>
+
+                <tr style="padding:0;">
+                    <td align="left" valign="top" style="border-collapse:collapse;padding:20px 3px">
+                        <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse:collapse;border-spacing:0;padding:0;table-layout:auto;">
+                            <tbody>
+                            <tr style="padding:0;">
+                                <td align="center" valign="middle" style="border-collapse:collapse;padding:0;">
+                                    <h1 style="font-size:28px;font-weight:bold;line-height:30px;margin:0;padding-bottom:40px;" th:text="${title}"></h1>
+                                    <table border="0" cellpadding="0" cellspacing="0" style="border-collapse:separate;border-spacing:0;padding:0;table-layout:auto;">
+                                        <tbody>
+                                        <tr style="padding:0;">
+                                            <td style="border-collapse:collapse;">
+
+                                                <div style="padding:5px 45px;" bgcolor="#eee">
+                                                    <p style="font-size:14px;margin-left:-30px;padding-bottom:16px;font-weight:bold;">Dear Sir/Madam,</p>
+                                                    <p style="font-size:14px;margin-left:-30px;padding-bottom:16px;"  th:text="${message}"></p>
+                                                    <p style="font-size:14px;margin:0;padding-bottom:20px;box-shadow: 0 15px 30px 0 rgba(0,0,0,0.11),0 5px 15px 0 rgba(0,0,0,0.08)" th:utext="${details}"></p>
+                                                </div>
+
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <br></br>
+                                            </td>
+                                        </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+
+                <tr style="padding:0;">
+                    <td align="center" valign="middle"  style="border-collapse:collapse;padding:0 15px 35px;">
+                        <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse:collapse;border-spacing:0;padding:0;table-layout:auto;">
+                            <tbody>
+                            <tr style="padding:0;">
+                                <td align="center" valign="middle" style="border-collapse:collapse;border-top-color:#ccc;border-top-style:solid;border-top-width:1px;font-size:17px;padding:30px 0 0;">powered by <a rel="nofollow" target="_blank" href="#" style="color:#2381bb; text-decoration:none;" th:text="${poweredBy}"></a></td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+                </tbody>
+            </table>
+        </td>
+    </tr>
+
+    </tbody>
+</table>
+
+</body>
+</html>

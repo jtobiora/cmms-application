@@ -1,0 +1,79 @@
+2018-10-25 19:26:43 INFO [main] n.u.n.c.CmmsAuthApplication
+                [StartupInfoLogger.java:48] Starting CmmsAuthApplication on LEOGOLD with PID 10404 (C:\upperlink\Cmms2\cmms2-bank\target\classes started by LEOGOLD in C:\upperlink\Cmms2\cmms2-bank)
+2018-10-25 19:26:43 INFO [main] n.u.n.c.CmmsAuthApplication
+                [SpringApplication.java:597] The following profiles are active: dev
+2018-10-25 19:26:43 INFO [background-preinit] o.h.v.i.u.Version
+                [Version.java:30] HV000001: Hibernate Validator 5.3.6.Final
+2018-10-25 19:26:44 INFO [main] o.s.b.c.e.AnnotationConfigEmbeddedWebApplicationContext
+                [AbstractApplicationContext.java:583] Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@34f22f9d: startup date [Thu Oct 25 19:26:44 WAT 2018]; root of context hierarchy
+2018-10-25 19:26:47 INFO [main] o.s.d.r.c.RepositoryConfigurationDelegate
+                [RepositoryConfigurationDelegate.java:165] Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-10-25 19:26:50 INFO [main] o.s.b.f.s.DefaultListableBeanFactory
+                [DefaultListableBeanFactory.java:828] Overriding bean definition for bean 'dataSource' with a different definition: replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=org.springframework.boot.autoconfigure.jdbc.DataSourceConfiguration$Generic; factoryMethodName=dataSource; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Generic.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=org.springframework.boot.autoconfigure.jdbc.DataSourceConfiguration$Hikari; factoryMethodName=dataSource; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]]
+2018-10-25 19:26:50 INFO [main] o.s.d.r.c.RepositoryConfigurationDelegate
+                [RepositoryConfigurationDelegate.java:165] Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-10-25 19:26:50 INFO [main] o.s.d.r.c.RepositoryConfigurationExtensionSupport
+                [RepositoryConfigurationExtensionSupport.java:270] Spring Data Redis - Could not safely identify store assignment for repository candidate interface ng.upperlink.nibss.cmms.repo.StateRepo.
+2018-10-25 19:26:50 INFO [main] o.s.d.r.c.RepositoryConfigurationExtensionSupport
+                [RepositoryConfigurationExtensionSupport.java:270] Spring Data Redis - Could not safely identify store assignment for repository candidate interface ng.upperlink.nibss.cmms.repo.UserRepo.
+2018-10-25 19:26:50 INFO [main] o.s.d.r.c.RepositoryConfigurationExtensionSupport
+                [RepositoryConfigurationExtensionSupport.java:270] Spring Data Redis - Could not safely identify store assignment for repository candidate interface ng.upperlink.nibss.cmms.repo.RolesRepo.
+2018-10-25 19:26:50 INFO [main] o.s.d.r.c.RepositoryConfigurationExtensionSupport
+                [RepositoryConfigurationExtensionSupport.java:270] Spring Data Redis - Could not safely identify store assignment for repository candidate interface ng.upperlink.nibss.cmms.repo.BillerRepo.
+2018-10-25 19:26:50 INFO [main] o.s.d.r.c.RepositoryConfigurationExtensionSupport
+                [RepositoryConfigurationExtensionSupport.java:270] Spring Data Redis - Could not safely identify store assignment for repository candidate interface ng.upperlink.nibss.cmms.repo.SubscriberRepo.
+2018-10-25 19:26:50 INFO [main] o.s.d.r.c.RepositoryConfigurationExtensionSupport
+                [RepositoryConfigurationExtensionSupport.java:270] Spring Data Redis - Could not safely identify store assignment for repository candidate interface ng.upperlink.nibss.cmms.repo.LgaRepo.
+2018-10-25 19:26:50 INFO [main] o.s.d.r.c.RepositoryConfigurationExtensionSupport
+                [RepositoryConfigurationExtensionSupport.java:270] Spring Data Redis - Could not safely identify store assignment for repository candidate interface ng.upperlink.nibss.cmms.repo.PasswordLogRepo.
+2018-10-25 19:26:50 INFO [main] o.s.d.r.c.RepositoryConfigurationExtensionSupport
+                [RepositoryConfigurationExtensionSupport.java:270] Spring Data Redis - Could not safely identify store assignment for repository candidate interface ng.upperlink.nibss.cmms.repo.BillerUserRepo.
+2018-10-25 19:26:50 INFO [main] o.s.d.r.c.RepositoryConfigurationExtensionSupport
+                [RepositoryConfigurationExtensionSupport.java:270] Spring Data Redis - Could not safely identify store assignment for repository candidate interface ng.upperlink.nibss.cmms.repo.PrivilegeRepo.
+2018-10-25 19:26:50 INFO [main] o.s.d.r.c.RepositoryConfigurationExtensionSupport
+                [RepositoryConfigurationExtensionSupport.java:270] Spring Data Redis - Could not safely identify store assignment for repository candidate interface ng.upperlink.nibss.cmms.repo.NibssUserRepo.
+2018-10-25 19:26:50 INFO [main] o.s.d.r.c.RepositoryConfigurationExtensionSupport
+                [RepositoryConfigurationExtensionSupport.java:270] Spring Data Redis - Could not safely identify store assignment for repository candidate interface ng.upperlink.nibss.cmms.repo.BankUserRepo.
+2018-10-25 19:26:50 INFO [main] o.s.d.r.c.RepositoryConfigurationExtensionSupport
+                [RepositoryConfigurationExtensionSupport.java:270] Spring Data Redis - Could not safely identify store assignment for repository candidate interface ng.upperlink.nibss.cmms.repo.ProductRepo.
+2018-10-25 19:26:50 INFO [main] o.s.d.r.c.RepositoryConfigurationExtensionSupport
+                [RepositoryConfigurationExtensionSupport.java:270] Spring Data Redis - Could not safely identify store assignment for repository candidate interface ng.upperlink.nibss.cmms.repo.CountryRepo.
+2018-10-25 19:26:50 INFO [main] o.s.d.r.c.RepositoryConfigurationExtensionSupport
+                [RepositoryConfigurationExtensionSupport.java:270] Spring Data Redis - Could not safely identify store assignment for repository candidate interface ng.upperlink.nibss.cmms.repo.AuditRepo.
+2018-10-25 19:26:50 INFO [main] o.s.d.r.c.RepositoryConfigurationExtensionSupport
+                [RepositoryConfigurationExtensionSupport.java:270] Spring Data Redis - Could not safely identify store assignment for repository candidate interface ng.upperlink.nibss.cmms.repo.BankRepo.
+2018-10-25 19:26:50 INFO [main] o.s.d.r.c.RepositoryConfigurationExtensionSupport
+                [RepositoryConfigurationExtensionSupport.java:270] Spring Data Redis - Could not safely identify store assignment for repository candidate interface ng.upperlink.nibss.cmms.repo.PasswordRecoveryCodeRepo.
+2018-10-25 19:26:50 INFO [main] o.s.d.r.c.RepositoryConfigurationExtensionSupport
+                [RepositoryConfigurationExtensionSupport.java:270] Spring Data Redis - Could not safely identify store assignment for repository candidate interface ng.upperlink.nibss.cmms.repo.CompanyRepo.
+2018-10-25 19:26:50 INFO [main] o.s.d.r.c.RepositoryConfigurationExtensionSupport
+                [RepositoryConfigurationExtensionSupport.java:270] Spring Data Redis - Could not safely identify store assignment for repository candidate interface ng.upperlink.nibss.cmms.repo.WebAppAuditEntryRepo.
+2018-10-25 19:26:50 INFO [main] o.s.d.r.c.RepositoryConfigurationExtensionSupport
+                [RepositoryConfigurationExtensionSupport.java:270] Spring Data Redis - Could not safely identify store assignment for repository candidate interface ng.upperlink.nibss.cmms.repo.PasswordPolicySettingRepo.
+2018-10-25 19:26:50 INFO [main] o.s.d.r.c.RepositoryConfigurationExtensionSupport
+                [RepositoryConfigurationExtensionSupport.java:270] Spring Data Redis - Could not safely identify store assignment for repository candidate interface ng.upperlink.nibss.cmms.repo.SettingRepo.
+2018-10-25 19:26:51 INFO [main] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker
+                [PostProcessorRegistrationDelegate.java:327] Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$56237ca4] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-10-25 19:26:51 WARN [main] o.s.b.c.e.AnnotationConfigEmbeddedWebApplicationContext
+                [AbstractApplicationContext.java:551] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Unable to start embedded container; nested exception is org.springframework.context.ApplicationContextException: Unable to start EmbeddedWebApplicationContext due to missing EmbeddedServletContainerFactory bean.
+2018-10-25 19:26:51 INFO [main] o.s.b.a.l.AutoConfigurationReportLoggingInitializer
+                [AutoConfigurationReportLoggingInitializer.java:101] 
+
+Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled.
+2018-10-25 19:26:51 ERROR [main] o.s.b.SpringApplication
+                [SpringApplication.java:771] Application startup failed
+org.springframework.context.ApplicationContextException: Unable to start embedded container; nested exception is org.springframework.context.ApplicationContextException: Unable to start EmbeddedWebApplicationContext due to missing EmbeddedServletContainerFactory bean.
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.onRefresh(EmbeddedWebApplicationContext.java:137)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:537)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:693)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:360)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:303)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1118)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1107)
+	at ng.upperlink.nibss.cmms.CmmsAuthApplication.main(CmmsAuthApplication.java:19)
+Caused by: org.springframework.context.ApplicationContextException: Unable to start EmbeddedWebApplicationContext due to missing EmbeddedServletContainerFactory bean.
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.getEmbeddedServletContainerFactory(EmbeddedWebApplicationContext.java:189)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.createEmbeddedServletContainer(EmbeddedWebApplicationContext.java:162)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.onRefresh(EmbeddedWebApplicationContext.java:134)
+	... 8 common frames omitted

@@ -1,0 +1,1470 @@
+[33mcommit a1cd07f96817e2bce5f7b1a380586d195fa8f448[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: henryodinaka1 <henry.onah@upperlink.ng>
+Date:   Thu Jan 24 16:37:55 2019 +0100
+
+    This still contains some bugs but i needed to check out to emandate branch
+
+[33mcommit c154269d1a6a14db823e21f00821c845311ab91e[m
+Author: henryodinaka1 <henry.onah@upperlink.ng>
+Date:   Thu Jan 24 16:18:28 2019 +0100
+
+    I added account look up classes
+
+[33mcommit 09c39af25711ccfb35b0c599a60aeb57d35c1a6d[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: henryodinaka1 <henry.onah@upperlink.ng>
+Date:   Thu Jan 24 15:42:28 2019 +0100
+
+    I have completed the maker checker for products
+
+[33mcommit 45c9067da534d50fa31729e23cedda93a3b5273f[m
+Author: henryodinaka1 <henry.onah@upperlink.ng>
+Date:   Thu Jan 24 11:05:32 2019 +0100
+
+    I corrected the error with retreival pending biller user
+
+[33mcommit ab68a7266388e42c27c7ac842067d60b176948a1[m[33m ([m[1;31morigin/makerchecker[m[33m, [m[1;32mmakerchecker[m[33m)[m
+Author: henryodinaka1 <henry.onah@upperlink.ng>
+Date:   Thu Jan 24 09:40:11 2019 +0100
+
+    I have done the makerchecker for the Biller user
+
+[33mcommit e11438f577565597740cfd3bed5da63fec11bbdd[m
+Author: henryodinaka1 <henry.onah@upperlink.ng>
+Date:   Wed Jan 23 16:55:22 2019 +0100
+
+    I Modified the error messages thrown on the biller user servie authentication
+
+[33mcommit e5f8b0be4b230f6836a311f19a9ff235d9cae77e[m
+Author: henryodinaka1 <henry.onah@upperlink.ng>
+Date:   Wed Jan 23 16:01:17 2019 +0100
+
+    I have completed the maker checker for the biller table
+
+[33mcommit 2b43cd134cbca287a946abf1f200a3368499dcc0[m
+Author: henryodinaka1 <henry.onah@upperlink.ng>
+Date:   Wed Jan 23 11:19:52 2019 +0100
+
+    I worked on the biller makerchecker and also added some columns on the fee table
+
+[33mcommit bc1d4fc8a17ac8f67529c297b454a75ca89f5aa6[m
+Author: henryodinaka1 <henry.onah@upperlink.ng>
+Date:   Wed Jan 23 09:34:27 2019 +0100
+
+    I have completed and tested Industry maker checker
+
+[33mcommit bc7264e4fa48d80eca5451dab4ffc1086bedb758[m
+Author: henryodinaka1 <henry.onah@upperlink.ng>
+Date:   Wed Jan 23 08:19:30 2019 +0100
+
+    I fixed the some issues with approval and rejection
+
+[33mcommit eafba138b1e9f5b59e92efd6f2f6bccf59d00f7b[m
+Author: henryodinaka1 <henry.onah@upperlink.ng>
+Date:   Tue Jan 22 11:46:10 2019 +0100
+
+    I made a little correction on the bank service
+
+[33mcommit 8df0ed8db3d0893992d09ba8d3c793f5754b2e45[m
+Merge: 5425960 5285b4f
+Author: henryodinaka1 <henry.onah@upperlink.ng>
+Date:   Tue Jan 22 09:01:58 2019 +0100
+
+    I merged the code with obiorah
+
+[33mcommit 54259607d63c135f59945c5ea6852e03b57aed41[m
+Author: henryodinaka1 <henry.onah@upperlink.ng>
+Date:   Tue Jan 22 07:55:01 2019 +0100
+
+    I manually add config package in a bid to debug the code
+
+[33mcommit 5285b4f8942bd17cefd4aef87fb35bd51cbd2a7a[m
+Author: Obiora <jtobiora@gmail.com>
+Date:   Tue Jan 22 06:53:38 2019 +0100
+
+    Made changes to makerchecker module
+
+[33mcommit f2dd10badeeb9e2983d3166d3e58c4734b9f07b4[m
+Merge: 354e4c2 3e43206
+Author: Obiora <jtobiora@gmail.com>
+Date:   Tue Jan 22 06:41:02 2019 +0100
+
+    Resolved conflicts for Makerchecker
+
+[33mcommit 354e4c24dce2a7c8b10865c0a01b0c309fdc3e96[m
+Author: Obiora <jtobiora@gmail.com>
+Date:   Tue Jan 22 06:25:08 2019 +0100
+
+    Changes reflected to show No Makerchecker
+
+[33mcommit 79073de5912995133dfc6870f86ad440669274b7[m
+Author: Obiora <jtobiora@gmail.com>
+Date:   Tue Jan 22 06:22:24 2019 +0100
+
+    Commited changes without Makerchecker
+
+[33mcommit 0e42e64e5dd38be013c3311fb6317641adb672bc[m
+Author: henryodinaka1 <henry.onah@upperlink.ng>
+Date:   Mon Jan 21 17:09:28 2019 +0100
+
+    I worked on the other entities for maker checker
+
+[33mcommit 3e43206a927f83b48efce68ca55187fa1a290786[m
+Author: henryodinaka1 <henry.onah@upperlink.ng>
+Date:   Sun Jan 20 09:05:19 2019 +0100
+
+    I have comleted makerchecker for both biller and bank uses
+
+[33mcommit a25cc44d519ed0941d3b04095d42488b036dbade[m
+Author: henryodinaka1 <henry.onah@upperlink.ng>
+Date:   Sat Jan 19 17:59:09 2019 +0100
+
+    I fixed a little bug on the phone number update
+
+[33mcommit dc0e91a6b8e3150c41e17e93b6e868a62a74e8eb[m
+Author: henryodinaka1 <henry.onah@upperlink.ng>
+Date:   Sat Jan 19 15:51:48 2019 +0100
+
+    I have successfully worked on the Nibss maker checker
+
+[33mcommit 71ed611f35ecb6f70dde20c2601a621071c65a35[m
+Author: henryodinaka1 <henry.onah@upperlink.ng>
+Date:   Fri Jan 18 22:47:51 2019 +0100
+
+    I refactored the code to make it Generic
+
+[33mcommit 0cee0c12fcdcc37111aa866e1edfea6694e0764a[m
+Author: henryodinaka1 <henry.onah@upperlink.ng>
+Date:   Fri Jan 18 21:38:57 2019 +0100
+
+    I have completed makerchecker for Nibss
+
+[33mcommit 922bccb93b020c7c3d579e85e9bb5114c2014cd1[m
+Author: henryodinaka1 <henry.onah@upperlink.ng>
+Date:   Fri Jan 18 20:24:59 2019 +0100
+
+    I have successfully implemented Nibss marker checker
+
+[33mcommit f76ca30fa13e4a630bd50a10222460135cf03ab1[m
+Merge: a8212e4 207745b
+Author: henryodinaka1 <henry.onah@upperlink.ng>
+Date:   Fri Jan 18 07:46:13 2019 +0100
+
+    I introduced the exception handler
+
+[33mcommit 207745b4996aa37ac4bb7aa555f52ca78233f8f1[m
+Author: henryodinaka1 <henry.onah@upperlink.ng>
+Date:   Thu Jan 17 23:02:26 2019 +0100
+
+    I corrected the logic
+
+[33mcommit a8212e46de58a80dcf9d7b286f7aff9849fce17c[m
+Merge: e240157 030796c
+Author: henryodinaka1 <henry.onah@upperlink.ng>
+Date:   Thu Jan 17 21:29:55 2019 +0100
+
+    Merge branch 'makerchecker'
+
+[33mcommit 030796c22b385d1193756100c3a6504bf6b44ed3[m
+Author: henryodinaka1 <henry.onah@upperlink.ng>
+Date:   Thu Jan 17 21:26:12 2019 +0100
+
+    I made changes in the logic on the authentication
+
+[33mcommit e240157c2130c6fc54ace98b80b14f5cfed36197[m
+Merge: 099c1ad ac44c35
+Author: henryodinaka1 <henry.onah@upperlink.ng>
+Date:   Thu Jan 17 21:23:23 2019 +0100
+
+    I merged changes from makerchecker branch
+
+[33mcommit ac44c35b91861d1a980607dbeb3395aa8daa5986[m
+Author: henryodinaka1 <henry.onah@upperlink.ng>
+Date:   Thu Jan 17 20:57:57 2019 +0100
+
+    I worked on the nibss module for makerchecker
+
+[33mcommit 099c1adc330ae9b53e708b87bf5f39b64aadc4d8[m
+Merge: eebdf94 d73aad4
+Author: henryodinaka1 <henry.onah@upperlink.ng>
+Date:   Thu Jan 17 10:40:31 2019 +0100
+
+    I worked on the marker checker
+
+[33mcommit d73aad48adfbeabbe488546a341f91c5edd23bb9[m
+Author: henryodinaka1 <henry.onah@upperlink.ng>
+Date:   Wed Jan 16 17:27:43 2019 +0100
+
+    we started makerchecker implimentation
+
+[33mcommit eebdf942d5a8b8eb389176a62345e34e8fa268d7[m
+Merge: ab65341 5cb879e
+Author: Obiora <jtobiora@gmail.com>
+Date:   Wed Jan 16 13:18:20 2019 +0100
+
+    Merge branch 'master' of https://bitbucket.org/upperlink/cmms2-lib
+
+[33mcommit ab65341a1567aa4107ea2efd3a276192779a575b[m
+Author: Obiora <jtobiora@gmail.com>
+Date:   Wed Jan 16 13:04:46 2019 +0100
+
+    Added MakerChecker enum
+
+[33mcommit ecb354c7dd04c511204f118b5fa88a6ddf57058a[m
+Author: Obiora <jtobiora@gmail.com>
+Date:   Wed Jan 16 11:10:40 2019 +0100
+
+    Added Bulk Uploads for mandates
+
+[33mcommit 5cb879edc39ecb34cd404a8449cbe21359d392eb[m
+Author: henryodinaka1 <henry.onah@upperlink.ng>
+Date:   Tue Jan 15 10:32:31 2019 +0100
+
+    I reverted to the last commit on Frideay
+
+[33mcommit 9eca294355bab2f4f64cdedba185836846104ef5[m
+Author: henryodinaka1 <henry.onah@upperlink.ng>
+Date:   Tue Jan 15 06:46:15 2019 +0100
+
+    was debbuging
+
+[33mcommit 4345b37d91298215dc9740bda3f657be7b02f1da[m
+Author: henryodinaka1 <henry.onah@upperlink.ng>
+Date:   Sun Jan 13 14:44:55 2019 +0100
+
+    I refactor the emandate and handled the all exceptions
+
+[33mcommit aae2ec8168c65f4f492ccf85a75c20517c988b7c[m
+Author: henryodinaka1 <henry.onah@upperlink.ng>
+Date:   Fri Jan 11 19:52:11 2019 +0100
+
+    I refactored the emandate module to make it cleaner
+
+[33mcommit 53d7c87527a82088f4ca460dedc1e09885f917ec[m
+Merge: 29c01d1 b82b09a
+Author: henryodinaka1 <henry.onah@upperlink.ng>
+Date:   Fri Jan 11 10:55:29 2019 +0100
+
+    Merge branch 'master' of https://bitbucket.org/upperlink/cmms2-lib
+
+[33mcommit b82b09a635d2f6aa52a210c1c4154540cfe3d6f3[m
+Author: Megafu <megafu.charles@yahoo.com>
+Date:   Fri Jan 11 10:52:49 2019 +0100
+
+    Made modifications to the transaction repository
+
+[33mcommit 29c01d1e071fecd15b26f6b90e709e5dc7ab3585[m
+Merge: 13c426a 0ebeff4
+Author: henryodinaka1 <henry.onah@upperlink.ng>
+Date:   Fri Jan 11 10:08:35 2019 +0100
+
+    Merge branch 'master' of https://bitbucket.org/upperlink/cmms2-lib
+
+[33mcommit 13c426ae335d54dd54964edab60eeae793f0eeeb[m
+Author: henryodinaka1 <henry.onah@upperlink.ng>
+Date:   Fri Jan 11 10:04:43 2019 +0100
+
+    I made changes on the emandate Services
+
+[33mcommit 0ebeff46975c639453388c65da7fc17b0e4ccafb[m
+Author: Megafu <megafu.charles@yahoo.com>
+Date:   Sun Dec 30 01:32:56 2018 +0100
+
+    Topic Optimization
+
+[33mcommit 2db99829b455f2c145af0fdd1a2ccef1d9260ecd[m
+Author: Megafu <megafu.charles@yahoo.com>
+Date:   Fri Dec 28 11:25:32 2018 +0100
+
+    Completed the processing of transaction details
+
+[33mcommit 71110b39563270cdeb198c3cd8aebb35390d9365[m
+Merge: 6ac1289 67abb82
+Author: Megafu <megafu.charles@yahoo.com>
+Date:   Thu Dec 27 21:12:59 2018 +0100
+
+    Merge branch 'master' of https://bitbucket.org/upperlink/cmms2-lib
+    
+    # Conflicts:
+    #       src/main/java/ng/upperlink/nibss/cmms/enums/Constants.java
+
+[33mcommit 6ac12894d282a694f6b365080bf84258059bb3eb[m
+Author: Megafu <megafu.charles@yahoo.com>
+Date:   Thu Dec 27 21:10:01 2018 +0100
+
+    Transaction summary report by role
+
+[33mcommit 67abb8236d3bc1c27f91025071ee0e2697884ed3[m
+Author: UPPERLINK <you@example.com>
+Date:   Thu Dec 27 13:14:59 2018 +0100
+
+    I refactored the emandate modules
+
+[33mcommit a9ad11e2417610c671ab779e5508cf733ff02d85[m
+Merge: 7fd0a06 5e72e4f
+Author: UPPERLINK <you@example.com>
+Date:   Sat Dec 22 11:51:00 2018 +0100
+
+    Merge branch 'master' of https://bitbucket.org/upperlink/cmms2-lib
+
+[33mcommit 7fd0a06f66e48b7bf536bad19a5d3e5ce2b22406[m
+Author: UPPERLINK <you@example.com>
+Date:   Sat Dec 22 11:49:15 2018 +0100
+
+    I refactored my code to have a reusable field
+
+[33mcommit 5e72e4fd72098d2250af0abe7bc363dd2c5e3620[m
+Author: Obiora <jtobiora@gmail.com>
+Date:   Sat Dec 22 11:42:17 2018 +0100
+
+    Created MandateSearchRequest for mandate search purposes
+
+[33mcommit aa4920232e62eb93cd4690d8709f7632c107efe0[m
+Merge: 1484a3c a893082
+Author: Obiora <jtobiora@gmail.com>
+Date:   Sat Dec 22 11:34:17 2018 +0100
+
+    Changes MandateService generateMethod
+
+[33mcommit 1484a3cf7ecfb7f67e376458a87a0a2d96cf2415[m
+Author: Obiora <jtobiora@gmail.com>
+Date:   Sat Dec 22 11:32:57 2018 +0100
+
+    Made changes to MandateService
+
+[33mcommit a89308241d227577e20ff515356f51704d550be6[m
+Author: UPPERLINK <you@example.com>
+Date:   Sat Dec 22 11:16:39 2018 +0100
+
+    I worked on the e-madate modules
+
+[33mcommit 680ce58656a90fd78a29c19fb483edb43841af0b[m
+Merge: 2d9f3ea 9fea567
+Author: UPPERLINK <you@example.com>
+Date:   Fri Dec 21 08:36:28 2018 +0100
+
+    Merge branch 'master' of https://bitbucket.org/upperlink/cmms2-lib
+
+[33mcommit 9fea567aededcaf88f14d16e607409994f853085[m
+Author: Obiora <jtobiora@gmail.com>
+Date:   Fri Dec 21 08:31:26 2018 +0100
+
+    Added changes to NIBSSService
+
+[33mcommit 2d9f3ea0f943b6402ed8aca2a3adc434c3290780[m
+Merge: 472668f 80dfc23
+Author: UPPERLINK <you@example.com>
+Date:   Fri Dec 21 08:12:05 2018 +0100
+
+    I am working on emandates
+
+[33mcommit 472668f98541348e5b9d3c01b37541402d45e467[m
+Author: UPPERLINK <you@example.com>
+Date:   Wed Dec 19 15:01:44 2018 +0100
+
+    I worked on the emandate
+
+[33mcommit 80dfc239d66badb8b99a7bf1d33a3c312159ef03[m
+Merge: 963f51c cf25033
+Author: Obiora <jtobiora@gmail.com>
+Date:   Wed Dec 19 14:57:01 2018 +0100
+
+    Merge branch 'master' of https://bitbucket.org/upperlink/cmms2-lib
+
+[33mcommit 963f51c1b6597e8aa9c078d15e74cbb5bf4414ba[m
+Author: Obiora <jtobiora@gmail.com>
+Date:   Wed Dec 19 14:56:29 2018 +0100
+
+    Added Changes to MandateService
+
+[33mcommit cf250332b3d9727b2b6f09f02d081d8ec1a6003c[m
+Author: Megafu <megafu.charles@yahoo.com>
+Date:   Mon Dec 17 11:08:26 2018 +0100
+
+    Updated the transaction params
+
+[33mcommit 76565d0ab966a97b0e69bd8e9e63d3195c841752[m
+Author: Megafu <megafu.charles@yahoo.com>
+Date:   Sun Dec 16 02:14:03 2018 +0100
+
+    Cleaned up the code base for the queue service
+
+[33mcommit 3595571a01a8faf70b3542070f2a7c1b608d2e54[m
+Author: Megafu <megafu.charles@yahoo.com>
+Date:   Sun Dec 16 02:11:06 2018 +0100
+
+    Completed the additon of fee to the transaction processing broker
+
+[33mcommit 500548eca98d29495802fff251936b9fb375255c[m
+Merge: bd8fde5 3ec50b2
+Author: Megafu <megafu.charles@yahoo.com>
+Date:   Sat Dec 15 19:46:17 2018 +0100
+
+    Merge branch 'master' of https://bitbucket.org/upperlink/cmms2-lib
+
+[33mcommit bd8fde57af6b3791298675e1a71f24fbeea11177[m
+Author: Megafu <megafu.charles@yahoo.com>
+Date:   Sat Dec 15 19:44:56 2018 +0100
+
+    Made modifications to the queuing service
+
+[33mcommit 3ec50b29613e4b96029bb26252e74b9f1503c8a9[m
+Merge: 4be450f ec8d607
+Author: Obiora <jtobiora@gmail.com>
+Date:   Sat Dec 15 16:24:21 2018 +0100
+
+    Merge branch 'master' of https://bitbucket.org/upperlink/cmms2-lib
+
+[33mcommit 4be450f733e8b85b03e6be9989c8fa4efbca9ef1[m
+Author: Obiora <jtobiora@gmail.com>
+Date:   Sat Dec 15 16:24:05 2018 +0100
+
+    Made changes to MandateFrequency
+
+[33mcommit ec8d60760712f11db64abd9c72a664a33975c948[m
+Author: UPPERLINK <you@example.com>
+Date:   Sat Dec 15 16:10:41 2018 +0100
+
+    i try differentiating the billers by the owner
+
+[33mcommit d8ccc1d20b532edade268120be1dc2addd4a9e49[m
+Merge: 830bd10 680cad3
+Author: UPPERLINK <you@example.com>
+Date:   Sat Dec 15 13:16:10 2018 +0100
+
+    worked one the e-mandate
+
+[33mcommit 830bd108119a6bd41ee91b79995970db90a63a3f[m
+Author: UPPERLINK <you@example.com>
+Date:   Sat Dec 15 12:58:23 2018 +0100
+
+    worked one the e-mandate
+
+[33mcommit 680cad38302d403d3bf1b34970b4086a2fc0f22d[m
+Merge: 4f0a8a8 5c2e52a
+Author: Obiora <jtobiora@gmail.com>
+Date:   Fri Dec 14 15:08:57 2018 +0100
+
+    Merge branch 'master' of https://bitbucket.org/upperlink/cmms2-lib
+
+[33mcommit 4f0a8a83e490be4555e46ad8661729923926c38c[m
+Author: Obiora <jtobiora@gmail.com>
+Date:   Fri Dec 14 15:08:34 2018 +0100
+
+    Cleaned up service classes
+
+[33mcommit 5c2e52ad6ae92916fa4a7f3b082355d2db9ea579[m
+Author: UPPERLINK <you@example.com>
+Date:   Fri Dec 14 13:24:52 2018 +0100
+
+    I enabled the NIBSS Initiator to be able to create products just for its biller and retructs it from creating for other billers
+
+[33mcommit 3069ab66b6e0172c0b2e62efc9bb34fcfdec57ae[m
+Author: UPPERLINK <you@example.com>
+Date:   Fri Dec 14 13:00:28 2018 +0100
+
+    I enabled the NIBSS Initiator to be able to create products just for its biller and retructs it from creating for other billers
+
+[33mcommit 15bfdd20e8da9ee3d712882e4ba2a354b739cd1a[m
+Author: UPPERLINK <you@example.com>
+Date:   Fri Dec 14 12:56:35 2018 +0100
+
+    I enabled the NIBSS Initiator to be able to create products just for its biller and retructs it from creating for other billers
+
+[33mcommit a67b036c292f70b204b14925d828a796356373cb[m
+Merge: d831312 8d7c01c
+Author: UPPERLINK <you@example.com>
+Date:   Fri Dec 14 12:16:30 2018 +0100
+
+    Merge branch 'master' of https://bitbucket.org/upperlink/cmms2-lib
+
+[33mcommit d83131247d00ed3474c89691795dede04d0a366c[m
+Author: UPPERLINK <you@example.com>
+Date:   Fri Dec 14 12:14:43 2018 +0100
+
+    I enabled nibss to be able to create a biller and itself as a biller too
+
+[33mcommit 8d7c01cebb96b614cac77f70c086b345bd1c0662[m
+Author: Obiora <jtobiora@gmail.com>
+Date:   Fri Dec 14 11:16:57 2018 +0100
+
+    Added changes to RoleName
+
+[33mcommit 1a33b543dd890101258ac5dafc75b00a3776bda5[m
+Merge: e9d29f7 4f205ec
+Author: UPPERLINK <you@example.com>
+Date:   Fri Dec 14 08:59:38 2018 +0100
+
+    Merge branch 'master' of https://bitbucket.org/upperlink/cmms2-lib
+
+[33mcommit e9d29f75a3797cb08187abab4ae4a9361e90c9c1[m
+Author: UPPERLINK <you@example.com>
+Date:   Fri Dec 14 08:59:04 2018 +0100
+
+    work ongoing on the emandates modules
+
+[33mcommit 4f205ec72198a5100c502afec0a8d316a3d4e6bf[m
+Author: Obiora <jtobiora@gmail.com>
+Date:   Fri Dec 14 07:55:59 2018 +0100
+
+    Added Changes to MandateService
+
+[33mcommit 6a1d26ad4703be4e61ebb4c1dd32bc72fdc62ba7[m
+Merge: 6980d79 1bafefb
+Author: Obiora <jtobiora@gmail.com>
+Date:   Thu Dec 13 15:50:08 2018 +0100
+
+    Merge branch 'master' of https://bitbucket.org/upperlink/cmms2-lib
+
+[33mcommit 6980d7900906e72599b2af85587b0482b793d062[m
+Merge: dd7f929 5769493
+Author: Obiora <jtobiora@gmail.com>
+Date:   Thu Dec 13 15:49:47 2018 +0100
+
+    merging request
+
+[33mcommit 1bafefbefaa258318005fe50f6d6041d4ddef27a[m
+Author: UPPERLINK <you@example.com>
+Date:   Thu Dec 13 15:41:37 2018 +0100
+
+    I added the role type to the token
+
+[33mcommit dd7f929885983bdfb82a780f230c9491e113b8e8[m
+Author: Obiora <jtobiora@gmail.com>
+Date:   Thu Dec 13 11:33:16 2018 +0100
+
+    Adde Changes to BillerUserService
+
+[33mcommit 57694938da84e2786e4397bb7d0edc834906ac96[m
+Merge: 57e8e53 5b1103c
+Author: UPPERLINK <you@example.com>
+Date:   Thu Dec 13 11:31:44 2018 +0100
+
+    Merge branch 'master' of https://bitbucket.org/upperlink/cmms2-lib
+
+[33mcommit 57e8e538822dd9bccac8ea403721a6a2138b89ba[m
+Author: UPPERLINK <you@example.com>
+Date:   Thu Dec 13 11:29:42 2018 +0100
+
+    I made a change on the role name
+
+[33mcommit 5b1103c3b2025688956953427564de2555da1395[m
+Merge: 1fec283 c3eac96
+Author: Obiora <jtobiora@gmail.com>
+Date:   Thu Dec 13 09:17:27 2018 +0100
+
+    Made changes to FormValidation
+
+[33mcommit 1fec283e777a9728c5aab86e17bac7c3615bcd9a[m
+Author: Obiora <jtobiora@gmail.com>
+Date:   Thu Dec 13 09:11:44 2018 +0100
+
+    Added Changes to SahringFormular
+
+[33mcommit c3eac96b78fbe9eeb74995bb92e82aeef027d0c4[m
+Author: UPPERLINK <you@example.com>
+Date:   Thu Dec 13 09:10:53 2018 +0100
+
+    I added other roles
+
+[33mcommit 0bfc3e9c143d0920342dfab1cdd25e14e5db79a2[m
+Author: UPPERLINK <you@example.com>
+Date:   Thu Dec 13 09:00:52 2018 +0100
+
+    I work on the emadate module and trying to resolve the conflit
+
+[33mcommit 7aa8664e3e2d4c047741df0459f4df54edb5bc85[m
+Merge: 7559abb 712c698
+Author: UPPERLINK <you@example.com>
+Date:   Wed Dec 12 09:03:09 2018 +0100
+
+    I made a change on the biller module
+
+[33mcommit 7559abbee3b08bc01461b3cf0e5c0adb471eebca[m
+Author: UPPERLINK <you@example.com>
+Date:   Tue Dec 11 20:07:47 2018 +0100
+
+    i made some changes on both biller and bank modules
+
+[33mcommit 712c698490d5714b6fddf83041e5d8c3c4ff175a[m
+Author: Obiora <jtobiora@gmail.com>
+Date:   Tue Dec 11 16:12:11 2018 +0100
+
+    Modified SharingFormularService
+
+[33mcommit 174173e2c87e39f76c6c4ff4924431a687553010[m
+Author: Obiora <jtobiora@gmail.com>
+Date:   Tue Dec 11 10:34:50 2018 +0100
+
+    Updated SharingFormularService
+
+[33mcommit 2910655bc1e15725780f2c9a4a41f6353d7790c9[m
+Author: Obiora <jtobiora@gmail.com>
+Date:   Tue Dec 11 10:02:49 2018 +0100
+
+    Added Beneficiary and Sharing formular
+
+[33mcommit bbc9effc245c979e23a30197815ac76e6ab08770[m
+Merge: ea50a2d 24c0ecb
+Author: Obiora <jtobiora@gmail.com>
+Date:   Mon Dec 10 10:19:18 2018 +0100
+
+    Changed BillerService
+
+[33mcommit ea50a2d4e6b3d0ed4eecf585bc9560a0b3782a34[m
+Author: Obiora <jtobiora@gmail.com>
+Date:   Mon Dec 10 10:06:16 2018 +0100
+
+    Added services and repositories for Fee setup and sharingformular
+
+[33mcommit 24c0ecb464c0972d8d5cfc90171a9b19cff72ce7[m
+Author: UPPERLINK <you@example.com>
+Date:   Sat Dec 8 10:39:27 2018 +0100
+
+    I worked on the biller emandate module
+
+[33mcommit 0bb238344514d42335b4e0df57d0c0fd3920112f[m
+Merge: de4b1ad 3a6b81f
+Author: UPPERLINK <you@example.com>
+Date:   Thu Dec 6 14:40:30 2018 +0100
+
+    Merge branch 'master' of https://bitbucket.org/upperlink/cmms2-lib
+
+[33mcommit de4b1ad3eebca3c7df4abf94483db48bb5e5a9c3[m
+Author: UPPERLINK <you@example.com>
+Date:   Thu Dec 6 14:28:05 2018 +0100
+
+    I want to resolve
+
+[33mcommit 80b9c6f92cb386509316ac5004b6ea4ffe1ad152[m
+Merge: 6e5c277 3a6b81f
+Author: Obiora <jtobiora@gmail.com>
+Date:   Mon Dec 3 10:20:56 2018 +0100
+
+    Merge branch 'master' of https://bitbucket.org/upperlink/cmms2-lib
+
+[33mcommit 6e5c277c62bc8dd7f5a37f4541fa845aad5a1b3e[m
+Author: Obiora <jtobiora@gmail.com>
+Date:   Mon Dec 3 10:20:36 2018 +0100
+
+    Modified CMMSFeePayer
+
+[33mcommit 3a6b81f20534512c8033205d80ac3e7559ba6c4c[m
+Author: Megafu <megafu.charles@yahoo.com>
+Date:   Mon Dec 3 09:52:59 2018 +0100
+
+    Updated the queue service
+
+[33mcommit bb9935d279c1e84b9575a9b8c3addaaa98d0e696[m
+Merge: cb922f7 9852ea9
+Author: Megafu <megafu.charles@yahoo.com>
+Date:   Mon Dec 3 09:42:52 2018 +0100
+
+    Merge branch 'master' of https://bitbucket.org/upperlink/cmms2-lib
+
+[33mcommit cb922f76705aedb5bb897805ee7c8d0f0295f89e[m
+Author: Megafu <megafu.charles@yahoo.com>
+Date:   Mon Dec 3 09:42:20 2018 +0100
+
+    Transaction processing
+
+[33mcommit 4aceada15f84d991f072928f83715508a2f59ea9[m
+Merge: 732fe48 9852ea9
+Author: UPPERLINK <you@example.com>
+Date:   Sat Dec 1 14:20:07 2018 +0100
+
+    Merge branch 'master' of https://bitbucket.org/upperlink/cmms2-lib
+
+[33mcommit 732fe489045e0998d55519b39d3c9ddda18d9b49[m
+Author: UPPERLINK <you@example.com>
+Date:   Sat Dec 1 14:19:30 2018 +0100
+
+    I added some fields on the bank and biller classs
+
+[33mcommit 9852ea962f35e631f7ceb0f251f8bce8acdfcfd5[m
+Merge: 5ae9f2d 914910d
+Author: Obiora <jtobiora@gmail.com>
+Date:   Sat Dec 1 11:32:09 2018 +0100
+
+    Merge branch 'master' of https://bitbucket.org/upperlink/cmms2-lib
+
+[33mcommit 5ae9f2d24acc1d695e8619cd0d9b55ec98a902db[m
+Author: Obiora <jtobiora@gmail.com>
+Date:   Sat Dec 1 11:31:49 2018 +0100
+
+    Made changes to MandateService class
+
+[33mcommit 914910d01200b32145ad74de2ad4853e61ba465e[m
+Author: UPPERLINK <you@example.com>
+Date:   Thu Nov 29 16:32:47 2018 +0100
+
+    I rsolved the comflits
+
+[33mcommit 4a5f1fb78342e2dd4e9a642d0b37c6b925af9fd4[m
+Merge: eb14542 f9be299
+Author: UPPERLINK <you@example.com>
+Date:   Thu Nov 29 16:24:26 2018 +0100
+
+    resolving the merge conflits
+
+[33mcommit eb14542b20be98b86959b27aad8b8438d8030d6d[m
+Author: UPPERLINK <you@example.com>
+Date:   Thu Nov 29 16:19:38 2018 +0100
+
+    I worked on the biller modules and banks modules
+
+[33mcommit f9be299e92a4010bf18af1c270f12058454a29d5[m
+Merge: 89e775b 761336b
+Author: Obiora <jtobiora@gmail.com>
+Date:   Thu Nov 29 15:29:09 2018 +0100
+
+    Merge branch 'master' of https://bitbucket.org/upperlink/cmms2-lib
+
+[33mcommit 89e775b7ec606f97737487c86b07abb145c12aa8[m
+Author: Obiora <jtobiora@gmail.com>
+Date:   Thu Nov 29 15:28:26 2018 +0100
+
+    Cleaned up MandateService {extracted some methods to FileUploadUtils}
+
+[33mcommit 761336bb5fb2ab62b709be6ea23d854243254930[m
+Merge: cb6d9e4 07179a1
+Author: Megafu <megafu.charles@yahoo.com>
+Date:   Thu Nov 29 14:24:06 2018 +0100
+
+    Merge branch 'master' of https://bitbucket.org/upperlink/cmms2-lib
+
+[33mcommit cb6d9e4ab012667485b1b328852204d3b57ea2f2[m
+Author: Megafu <megafu.charles@yahoo.com>
+Date:   Thu Nov 29 14:23:15 2018 +0100
+
+    Introduced new methods for the processing of debit retrials
+
+[33mcommit 07179a18f9833fc192869ba42e06125c4af166db[m
+Author: Obiora <jtobiora@gmail.com>
+Date:   Thu Nov 29 13:56:57 2018 +0100
+
+    Added MandateService
+
+[33mcommit e95cf7f7bb92452e1bda4e9709363e3d5cf3c9ef[m
+Merge: fa138c1 5ff62dd
+Author: Obiora <jtobiora@gmail.com>
+Date:   Thu Nov 29 13:25:04 2018 +0100
+
+    MandateRepo edited
+
+[33mcommit fa138c1248756a98aa41b4d45365e6c34a2574c9[m
+Author: Obiora <jtobiora@gmail.com>
+Date:   Thu Nov 29 13:19:23 2018 +0100
+
+    Made changes to FileUploadUtils
+
+[33mcommit 9345e6eddacc09c86ced3d28c6f1ea7b6bd62839[m
+Author: Megafu <megafu.charles@yahoo.com>
+Date:   Thu Nov 29 10:43:58 2018 +0100
+
+    Compeleted the debit the of the subscriber and the credit of the biller --- There is still a caveat; To confirm that when a credit fails, the transaction is assumed successful
+
+[33mcommit 5ff62dd201ba5eb3894610e2b0fb15d6f63baeac[m
+Author: Megafu <megafu.charles@yahoo.com>
+Date:   Wed Nov 28 16:22:05 2018 +0100
+
+    Completed the implementation to move daily transactions
+
+[33mcommit acb8742c34678b77563f526edfcfe619331bcb32[m
+Author: Megafu <megafu.charles@yahoo.com>
+Date:   Wed Nov 28 09:48:35 2018 +0100
+
+    Added an in-memory caching configuration, added an enum for the mandate channels, introduced the  fetching of mandate statuses by name and the implementation for fetching all due mandates
+
+[33mcommit fd53a15f3ea8c24478bb3e62f13dc24e12df7adb[m
+Author: Megafu <megafu.charles@yahoo.com>
+Date:   Tue Nov 27 20:27:47 2018 +0100
+
+    Updated the CMMS NIP service
+
+[33mcommit 0b28b2832598955554319eb3081023c475dde03f[m
+Merge: 87dc0df 7885ec4
+Author: Obiora <jtobiora@gmail.com>
+Date:   Tue Nov 27 17:57:59 2018 +0100
+
+    Merge branch 'master' of https://bitbucket.org/upperlink/cmms2-lib
+
+[33mcommit 87dc0dfed2ee83116a6b004bcfc3bfa7f582107e[m
+Merge: 979250d 31af1ea
+Author: Obiora <jtobiora@gmail.com>
+Date:   Tue Nov 27 17:57:38 2018 +0100
+
+    Added changes to BankUserServiceTest
+
+[33mcommit 7885ec43ba2510ba2ee701d9f508b6b806f60170[m
+Author: UPPERLINK <you@example.com>
+Date:   Tue Nov 27 17:55:02 2018 +0100
+
+    I added another method to retreive billers by bankId
+
+[33mcommit a55846900c2f581155239d541b60eea0320e27aa[m
+Author: UPPERLINK <you@example.com>
+Date:   Tue Nov 27 09:36:04 2018 +0100
+
+    I corrected the email statement
+
+[33mcommit 979250d16d6b574f4d341395029212e3e9e4ddff[m
+Author: Obiora <jtobiora@gmail.com>
+Date:   Mon Nov 26 20:54:17 2018 +0100
+
+    Made Changes to BillerRequest
+
+[33mcommit 31af1eadced60b6fe8e88a39fda88e714e0734dc[m
+Author: UPPERLINK <you@example.com>
+Date:   Mon Nov 26 20:49:38 2018 +0100
+
+    Refactored the biller module
+
+[33mcommit 6b5c367deadbacb66818bfd376d6200c6a5382bc[m
+Author: UPPERLINK <you@example.com>
+Date:   Sat Nov 24 16:28:42 2018 +0100
+
+    I worked on the biller moule to enable the system know that a biller is that of the bank
+
+[33mcommit ecce435e84041552471322fd04d1b0f916eebc17[m
+Author: Obiora <jtobiora@gmail.com>
+Date:   Thu Nov 22 19:11:15 2018 +0100
+
+    Added new Constants to MandateStatusType
+
+[33mcommit 198bb4661e385802ecbcb8edc34857df85a03917[m
+Merge: a818ed4 655be58
+Author: Obiora <jtobiora@gmail.com>
+Date:   Thu Nov 22 10:11:35 2018 +0100
+
+    Merge branch 'master' of https://bitbucket.org/upperlink/cmms2-lib
+
+[33mcommit a818ed4823946129a73c64e7943d8602d20a0f7a[m
+Author: Obiora <jtobiora@gmail.com>
+Date:   Thu Nov 22 10:10:40 2018 +0100
+
+    Added some more constants to RoleName
+
+[33mcommit 655be58ecb2a2ea18c262ae1560630f0dc1ec38a[m
+Author: UPPERLINK <you@example.com>
+Date:   Thu Nov 22 10:10:07 2018 +0100
+
+    I resolvesd the seriallization isues
+
+[33mcommit 79896fc4a4d64e45708efa8f2913711f45242aa8[m
+Author: UPPERLINK <you@example.com>
+Date:   Wed Nov 21 19:23:53 2018 +0100
+
+    I added role names for bank users
+
+[33mcommit 0c786852f9489ecd0cd89daa28ff3423203d32c0[m
+Merge: abe663e 7a03158
+Author: Obiora <jtobiora@gmail.com>
+Date:   Wed Nov 21 15:55:39 2018 +0100
+
+    Merge branch 'master' of https://bitbucket.org/upperlink/cmms2-lib
+
+[33mcommit abe663e0241d190f1529571f0a8678c43926e75f[m
+Author: Obiora <jtobiora@gmail.com>
+Date:   Wed Nov 21 15:55:07 2018 +0100
+
+    Changed Parameters for MandateConstants
+
+[33mcommit 7a03158d2982f56e527c9d26cd0a4b44265b6e57[m
+Merge: a595255 1965a57
+Author: UPPERLINK <you@example.com>
+Date:   Wed Nov 21 14:55:01 2018 +0100
+
+    Merge branch 'master' of https://bitbucket.org/upperlink/cmms2-lib
+
+[33mcommit a59525599786a47699ba9037ede9bec9e77f3d8e[m
+Author: UPPERLINK <you@example.com>
+Date:   Wed Nov 21 14:53:28 2018 +0100
+
+    I corrected the error with same name
+
+[33mcommit 3262dac42c4b3cd8dfbc9879c237cee5e492681e[m
+Merge: f44e557 1965a57
+Author: Obiora <jtobiora@gmail.com>
+Date:   Wed Nov 21 09:28:53 2018 +0100
+
+    Merge branch 'master' of https://bitbucket.org/upperlink/cmms2-lib
+
+[33mcommit f44e557d8b291f6dc0f07e03ebbc21e446097949[m
+Merge: 37ce38d f423e00
+Author: Obiora <jtobiora@gmail.com>
+Date:   Wed Nov 21 09:28:26 2018 +0100
+
+    Modified RoleName enum
+
+[33mcommit 1965a57496ca3d25bd1a108eba7904d79788d39f[m
+Author: Megafu <megafu.charles@yahoo.com>
+Date:   Tue Nov 20 18:09:55 2018 +0100
+
+    Updated the send mandate advice method
+
+[33mcommit 2a4038c497109020b8bc890a860334fdfb4f6561[m
+Merge: 606b226 f423e00
+Author: Megafu <megafu.charles@yahoo.com>
+Date:   Tue Nov 20 16:05:10 2018 +0100
+
+    Merge branch 'master' of https://bitbucket.org/upperlink/cmms2-lib
+
+[33mcommit 606b226e70c466ad73ca469b97ad9f96b67e57da[m
+Author: Megafu <megafu.charles@yahoo.com>
+Date:   Tue Nov 20 16:04:30 2018 +0100
+
+    Added methods to commons util, cmmsNipService and the queue for kafka
+
+[33mcommit 37ce38d1763c2096d10c3feaf86d2c6a2e84c4e7[m
+Author: Obiora <jtobiora@gmail.com>
+Date:   Mon Nov 19 14:56:47 2018 +0100
+
+    Added changes to Mandates
+
+[33mcommit f423e003387d3ea91fe4c5067877c2db780e1e22[m
+Author: UPPERLINK <you@example.com>
+Date:   Sat Nov 17 17:16:13 2018 +0100
+
+    I worked the Nibss user
+
+[33mcommit 8b1bb98d4dcbc69ac1965e93aaa40307757c8ce8[m
+Author: UPPERLINK <you@example.com>
+Date:   Sat Nov 17 14:17:11 2018 +0100
+
+    I made correction to the generate method for mail
+
+[33mcommit ca86f3c8541490b257b5ed62f03643466eb3e977[m
+Author: UPPERLINK <you@example.com>
+Date:   Sat Nov 17 12:37:55 2018 +0100
+
+    I refactored the classes and seperated them according to the modules
+
+[33mcommit f6d2f41893faec302ab3f08a0e2899837c7271b0[m
+Author: UPPERLINK <you@example.com>
+Date:   Thu Nov 15 17:25:41 2018 +0100
+
+    i modified the bankuserrepo to reflect the change in the bank
+
+[33mcommit b0499cbe6168a4998821b9b65421e30bdccbbd9a[m
+Author: UPPERLINK <you@example.com>
+Date:   Thu Nov 15 14:43:13 2018 +0100
+
+    i implemented the authorization of users and filter roles by role type and user type
+
+[33mcommit 657fb38a54c3e477213076cea009eebc4080f8c3[m
+Merge: bc51608 8578169
+Author: Megafu <megafu.charles@yahoo.com>
+Date:   Wed Nov 14 19:35:24 2018 +0100
+
+    Merge branch 'master' of https://bitbucket.org/upperlink/cmms2-lib
+
+[33mcommit bc51608ed332845104c62826a5c51d6a5101626c[m
+Author: Megafu <megafu.charles@yahoo.com>
+Date:   Wed Nov 14 19:35:02 2018 +0100
+
+    Made modifications to the mandate entity
+
+[33mcommit a6ddbc436fd5b35b89437260eb05befda5317a6f[m
+Merge: bb4ed0d 8578169
+Author: Obiora <jtobiora@gmail.com>
+Date:   Wed Nov 14 18:52:56 2018 +0100
+
+    Merge branch 'master' of https://bitbucket.org/upperlink/cmms2-lib
+
+[33mcommit 85781693865296d482be43f880ed7309d0a24e2a[m
+Author: UPPERLINK <you@example.com>
+Date:   Wed Nov 14 18:21:04 2018 +0100
+
+    making sure that the contact details is not null
+
+[33mcommit bb4ed0dd18066fd50319aef12e50bcf0e1e958f5[m
+Author: Obiora <jtobiora@gmail.com>
+Date:   Wed Nov 14 18:18:45 2018 +0100
+
+    resolving conflit
+
+[33mcommit 3314fa04fd8fa6120ca72caebb2dc6c1b60f913b[m
+Merge: 57ab5db da1f88d
+Author: Obiora <jtobiora@gmail.com>
+Date:   Wed Nov 14 16:44:20 2018 +0100
+
+    Merge branch 'master' of https://bitbucket.org/upperlink/cmms2-lib
+
+[33mcommit 57ab5db5b9a55f7d24423c68fd91de3a87e79867[m
+Author: Obiora <jtobiora@gmail.com>
+Date:   Wed Nov 14 16:44:00 2018 +0100
+
+    reactivated test
+
+[33mcommit da1f88d6cd5a2739e4d8bc1db6278229ef79b59d[m
+Author: UPPERLINK <you@example.com>
+Date:   Wed Nov 14 16:23:45 2018 +0100
+
+    removed jsonignore
+
+[33mcommit dbe393cbd9ac9786b97fdbbb5e1e073f1a247862[m
+Merge: 8404c7b 3a37a5f
+Author: UPPERLINK <you@example.com>
+Date:   Wed Nov 14 14:29:07 2018 +0100
+
+    resolving the conflicts
+
+[33mcommit 8404c7b1d67d78362bb3ed2c113fb630b115dac7[m
+Author: UPPERLINK <you@example.com>
+Date:   Wed Nov 14 13:28:50 2018 +0100
+
+    I worked on the biller related classes
+
+[33mcommit 3a37a5ffeb1be00e6ce0f96dd54de8648ce54af5[m
+Merge: bf23e42 3387202
+Author: Obiora <jtobiora@gmail.com>
+Date:   Wed Nov 14 13:27:53 2018 +0100
+
+    Merge branch 'master' of https://bitbucket.org/upperlink/cmms2-lib
+
+[33mcommit bf23e4251145a7d14f8585f711f06d2cbdb2318a[m
+Author: Obiora <jtobiora@gmail.com>
+Date:   Wed Nov 14 13:27:19 2018 +0100
+
+    Added changes to MandateService
+
+[33mcommit 3387202627538fa9b65f35cd16d6f066b575caed[m
+Author: Megafu <megafu.charles@yahoo.com>
+Date:   Wed Nov 14 12:13:42 2018 +0100
+
+    Cleaned up the class for customdateserializer
+
+[33mcommit 85cfad1cc3b9c14ca2be7722fe44622af1a775d9[m
+Merge: 3a5d1a9 aad01db
+Author: Megafu <megafu.charles@yahoo.com>
+Date:   Tue Nov 13 16:14:18 2018 +0100
+
+    Merge branch 'charles-cmms-lib'
+
+[33mcommit 3a5d1a9e42775d15be7f3246ee67d8f1fd49660a[m
+Author: Obiora <jtobiora@gmail.com>
+Date:   Tue Nov 13 15:54:49 2018 +0100
+
+    Added nip_client to pom file
+
+[33mcommit aad01db9c2075fb223cb38bd59234d8c49f84a51[m[33m ([m[1;31morigin/charles-cmms-lib[m[33m)[m
+Author: Megafu <megafu.charles@yahoo.com>
+Date:   Tue Nov 13 14:38:36 2018 +0100
+
+    added a new NIP client to the pom xml
+
+[33mcommit b9382e18414101415974523ed506dba5a0205a9d[m
+Author: Megafu <megafu.charles@yahoo.com>
+Date:   Tue Nov 13 14:18:25 2018 +0100
+
+    Added maven skip to the pom xml
+
+[33mcommit 4a0e6cc009843d55ccb416ef9e7e8a161dd10093[m
+Merge: 94ad606 937c65a
+Author: Obiora <jtobiora@gmail.com>
+Date:   Mon Nov 12 16:14:49 2018 +0100
+
+    Added changes to BillerUserService
+
+[33mcommit 94ad60684f8068f24dc6328e963c1593d6bc57ca[m
+Author: Obiora <jtobiora@gmail.com>
+Date:   Mon Nov 12 16:09:07 2018 +0100
+
+    Added changes to MandateService
+
+[33mcommit 937c65a6b44beda224897e721ce1b310e0ea1a32[m
+Merge: 6fac8ff 4328fa0
+Author: UPPERLINK <you@example.com>
+Date:   Tue Nov 6 10:41:10 2018 +0100
+
+    Merge branch 'master' of https://bitbucket.org/upperlink/cmms2-lib
+
+[33mcommit 6fac8ffab829d10e8bb13c510257497f483f0273[m
+Author: UPPERLINK <you@example.com>
+Date:   Tue Nov 6 10:40:02 2018 +0100
+
+    worked on the biller
+
+[33mcommit 4328fa0b49e176f4f85b78cf4552eb183a94576c[m
+Author: Obiora <jtobiora@gmail.com>
+Date:   Tue Nov 6 10:32:02 2018 +0100
+
+    Added changes to Errors constant
+
+[33mcommit 655fdce410260cf20e64d4fcf962db0073f9acfd[m
+Merge: 847c622 2fdd1ea
+Author: Obiora <jtobiora@gmail.com>
+Date:   Mon Nov 5 21:59:42 2018 +0100
+
+    Merge branch 'master' of https://bitbucket.org/upperlink/cmms2-lib
+
+[33mcommit 847c622c83c72d2e28907bd573f1d692cd85886b[m
+Author: Obiora <jtobiora@gmail.com>
+Date:   Mon Nov 5 21:59:06 2018 +0100
+
+    Added mandateFerequency
+
+[33mcommit 2fdd1ea5c6b57b263e4b3a3d2edee54bd805e79c[m
+Merge: 8cd68a1 9cb842c
+Author: UPPERLINK <you@example.com>
+Date:   Mon Nov 5 20:59:45 2018 +0100
+
+    Merge branch 'master' of https://bitbucket.org/upperlink/cmms2-lib
+
+[33mcommit 8cd68a1caeae575c0c0ff56641adfcf810e80a41[m
+Author: UPPERLINK <you@example.com>
+Date:   Mon Nov 5 20:59:12 2018 +0100
+
+    worked on the biller
+
+[33mcommit 9cb842c4e10e187d7cd0ca6d4132b9c6c98ffc6b[m
+Merge: 4f3fb4c b5f59ed
+Author: Obiora <jtobiora@gmail.com>
+Date:   Mon Nov 5 19:04:01 2018 +0100
+
+    Merge branch 'master' of https://bitbucket.org/upperlink/cmms2-lib
+
+[33mcommit 4f3fb4c7f918aa7c9f9433a2435c7e49ce175de5[m
+Author: Obiora <jtobiora@gmail.com>
+Date:   Mon Nov 5 18:55:46 2018 +0100
+
+    Added mandate frequencies
+
+[33mcommit b5f59ed367e8992553cb3be76c3a2f43b4e83f35[m
+Author: UPPERLINK <you@example.com>
+Date:   Mon Nov 5 18:54:48 2018 +0100
+
+    Fixing error on the biller module
+
+[33mcommit d0f4d18d8bec9eba5fb41b3203613a284ecf48d5[m
+Merge: 5749f61 fdc20ed
+Author: UPPERLINK <you@example.com>
+Date:   Mon Nov 5 13:41:02 2018 +0100
+
+    Merge branch 'master' of https://bitbucket.org/upperlink/cmms2-lib
+
+[33mcommit fdc20edc24d0c022d0724758d01da7a2b25d6d7d[m
+Author: Obiora <jtobiora@gmail.com>
+Date:   Mon Nov 5 13:39:10 2018 +0100
+
+    Added changes to @Tostring
+
+[33mcommit 5749f61b62064178f098e77b8bbe86908e245cd9[m
+Merge: 8d6bddd 8567840
+Author: UPPERLINK <you@example.com>
+Date:   Mon Nov 5 13:05:33 2018 +0100
+
+    Merge branch 'master' of https://bitbucket.org/upperlink/cmms2-lib
+
+[33mcommit 8d6bdddbb1c5cd04c496a234bc7a0c051c9258f5[m
+Author: UPPERLINK <you@example.com>
+Date:   Mon Nov 5 13:04:51 2018 +0100
+
+    Made some modification in the biller
+
+[33mcommit 85678402b233314d7d07ae047dfebac0828bb86b[m
+Merge: 38d47dc def3c53
+Author: Obiora <jtobiora@gmail.com>
+Date:   Mon Nov 5 09:46:19 2018 +0100
+
+    Merge branch 'master' of https://bitbucket.org/upperlink/cmms2-lib
+
+[33mcommit 38d47dc905cc1fd09893363945d080ac2e28f83e[m
+Author: Obiora <jtobiora@gmail.com>
+Date:   Mon Nov 5 09:45:53 2018 +0100
+
+    Added changes to MandateService and MandateStatusService
+
+[33mcommit def3c531ce250621e720396be8cae90557558d68[m
+Merge: 76c2059 d3e10eb
+Author: UPPERLINK <you@example.com>
+Date:   Sat Nov 3 17:10:59 2018 +0100
+
+    Merging to resolve the comflit
+
+[33mcommit 76c205999f827ee9d21418a37a8e984df7fd9477[m
+Author: UPPERLINK <you@example.com>
+Date:   Sat Nov 3 17:00:25 2018 +0100
+
+    Still on the biller related classes
+
+[33mcommit 6e35dc8299608a2127d0c4123ed41b10c69fce4b[m
+Author: UPPERLINK <you@example.com>
+Date:   Sat Nov 3 08:37:03 2018 +0100
+
+    I rectified the issues with the mapper interfaces and the use of billercode in my quries
+
+[33mcommit 3d03e91560ec420b7aefd454b4b9d4e398d52c4b[m
+Author: UPPERLINK <you@example.com>
+Date:   Sat Nov 3 07:57:41 2018 +0100
+
+    I worked on the classes that relates to the biller module
+
+[33mcommit d3e10eb1c56fe8c2714cb2bdc1f0cb824d95f819[m
+Merge: 9a6724f 71a95fd
+Author: Obiora <jtobiora@gmail.com>
+Date:   Wed Oct 31 21:12:05 2018 +0100
+
+    Merge branch 'master' of https://bitbucket.org/upperlink/cmms2-lib
+
+[33mcommit 71a95fd3a797d45f829497f05ce2b6fea4e6a08a[m
+Merge: 5c31434 c22f2e9
+Author: UPPERLINK <you@example.com>
+Date:   Wed Oct 31 21:04:22 2018 +0100
+
+    Merge branch 'master' of https://bitbucket.org/upperlink/cmms2-lib
+
+[33mcommit 9a6724f6d1688b72a9356e48e505301b1bb64604[m
+Author: Obiora <jtobiora@gmail.com>
+Date:   Wed Oct 31 21:03:23 2018 +0100
+
+    Added Repo and service class for mandates
+
+[33mcommit 5c314341877763a34a09c1a4a77e912a4b27b58a[m
+Author: UPPERLINK <you@example.com>
+Date:   Wed Oct 31 21:03:17 2018 +0100
+
+    I worked on the classes that relates to bank
+
+[33mcommit c22f2e9555dc73723c540e6ec77e867ea65e26eb[m
+Author: Elvis Orji <elvisouk@yahoo.com>
+Date:   Wed Oct 31 17:19:02 2018 +0100
+
+    added validation to industries
+
+[33mcommit 89a1ce35a1a0e344d7322f366d47306ce6daeff2[m
+Merge: fd3b4a4 4b62404
+Author: Elvis Orji <elvisouk@yahoo.com>
+Date:   Wed Oct 31 13:59:57 2018 +0100
+
+    Merge branch 'master' of https://bitbucket.org/upperlink/cmms2-lib
+
+[33mcommit fd3b4a4bac88fda08374aea1df1612457106e890[m
+Author: Elvis Orji <elvisouk@yahoo.com>
+Date:   Wed Oct 31 13:59:33 2018 +0100
+
+    Biller module crud done
+
+[33mcommit 4b62404abdc8d86cba0bde943189edde9407282c[m
+Merge: 9b41f9c aa79040
+Author: Obiora <jtobiora@gmail.com>
+Date:   Tue Oct 30 11:04:58 2018 +0100
+
+    Merge branch 'master' of https://bitbucket.org/upperlink/cmms2-lib
+
+[33mcommit 9b41f9c0d3e5f38faad8ebf52f061828de9c76c7[m
+Author: Obiora <jtobiora@gmail.com>
+Date:   Tue Oct 30 11:04:29 2018 +0100
+
+    Added MandateRepo and MandateStatusRepo
+
+[33mcommit aa79040e7d886dc7139d265dcab515435b6b92aa[m
+Author: UPPERLINK <you@example.com>
+Date:   Tue Oct 30 10:34:44 2018 +0100
+
+    i worked on the bankUserService and bank
+
+[33mcommit 647bee8ba795ee55a6bb8212a3a50a6db6621b71[m
+Merge: c2a517e 9f98c75
+Author: Elvis Orji <elvisouk@yahoo.com>
+Date:   Mon Oct 29 19:21:29 2018 +0100
+
+    Merge branch 'master' of https://bitbucket.org/upperlink/cmms2-lib
+
+[33mcommit 9f98c7509cee07ae55640466fcd72f2175ece84f[m
+Author: Obiora <jtobiora@gmail.com>
+Date:   Mon Oct 29 19:20:31 2018 +0100
+
+    added model classes - BankNotification,BillerNotification,Notification,NotificationsConfig,Transaction,TransactionParam,etc
+
+[33mcommit c2a517e10583364f05b41cf1775df4a09dabe486[m
+Author: Elvis Orji <elvisouk@yahoo.com>
+Date:   Mon Oct 29 19:13:25 2018 +0100
+
+    added biller service
+
+[33mcommit 5531eea5d605aaa729b2f1a8c458e30603e561b0[m
+Author: Obiora <jtobiora@gmail.com>
+Date:   Mon Oct 29 16:17:00 2018 +0100
+
+    Added changes to NibssUserService generate method
+
+[33mcommit fc1fd74cb772cc2eee24acfa83900710b5d1c3e7[m
+Author: Obiora <jtobiora@gmail.com>
+Date:   Mon Oct 29 14:25:50 2018 +0100
+
+    Modified Role entity
+
+[33mcommit 225a2fefff7e11ed6330a85d422ead6f9d6c1862[m
+Author: Obiora <jtobiora@gmail.com>
+Date:   Mon Oct 29 14:14:43 2018 +0100
+
+    Created mandate,Rejection,RejectionReasions entities. Also added a column to Role entity
+
+[33mcommit 1df91d6bc6862656985168f916b7c222dfc9c7d4[m
+Merge: 39a2a77 8496c63
+Author: Obiora <jtobiora@gmail.com>
+Date:   Mon Oct 29 11:11:51 2018 +0100
+
+    Merge branch 'master' of https://bitbucket.org/upperlink/cmms2-lib
+
+[33mcommit 39a2a775e6ff15422670db093ba092e3f6f55b91[m
+Author: Obiora <jtobiora@gmail.com>
+Date:   Mon Oct 29 11:11:10 2018 +0100
+
+    Added Mandates
+
+[33mcommit 8496c635a9be41a2435b5b2b1348c072bb721d4e[m
+Author: Leo Henry <deleo.henry@gmail.com>
+Date:   Mon Oct 29 11:00:22 2018 +0100
+
+    I resolved the conflits and removed the files casusing the conflits
+
+[33mcommit 305cccfefbfd5ed5d3129a89546f00e82f81a837[m
+Author: Leo Henry <deleo.henry@gmail.com>
+Date:   Mon Oct 29 10:48:43 2018 +0100
+
+    I tried to resolve conflits
+
+[33mcommit 8134e4ab57a8c3b903c571e14c6b1c72fbd6cb02[m
+Merge: f0b8e5c 2a66fa7
+Author: Leo Henry <deleo.henry@gmail.com>
+Date:   Mon Oct 29 10:41:49 2018 +0100
+
+    resolving comflit
+
+[33mcommit f0b8e5cb72f3d9317ec147a0fe14e946d39125d1[m
+Author: Leo Henry <deleo.henry@gmail.com>
+Date:   Mon Oct 29 10:28:34 2018 +0100
+
+    I worked on the BankUserService and corrected the issues causing constraint violation error
+
+[33mcommit ec09fd2bc9f7489d7ae99fd80f03df2daa2ca99e[m
+Author: Leo Henry <deleo.henry@gmail.com>
+Date:   Sat Oct 27 09:57:50 2018 +0100
+
+    I worked on the generateforapproveal methode and added the Json mapper
+
+[33mcommit 2a66fa7651f693a109556e8f2d66d358c949b01f[m
+Merge: 5983b52 d4b4446
+Author: Elvis Orji <elvisouk@yahoo.com>
+Date:   Fri Oct 26 10:47:49 2018 +0100
+
+    getting updates
+
+[33mcommit 5983b528f30243bf3fad87aa2c56fa470df8058f[m
+Author: Elvis Orji <elvisouk@yahoo.com>
+Date:   Fri Oct 26 10:43:41 2018 +0100
+
+    getting updates
+
+[33mcommit d4b44463fb19eabefd9541e92caf42a2d2dce0b4[m
+Author: unknown <jtobiora@gmail.com>
+Date:   Fri Oct 26 10:42:22 2018 +0100
+
+    Added modifications to Bank model
+
+[33mcommit 47cfe32fea9510643d37902c58db79ec42ce19d6[m
+Merge: 1fb703d 8222cc8
+Author: unknown <jtobiora@gmail.com>
+Date:   Fri Oct 26 09:06:38 2018 +0100
+
+    Made changes to Bank class
+
+[33mcommit 1fb703d042afc2760f20512b31d60d8846f4e6d8[m
+Author: unknown <jtobiora@gmail.com>
+Date:   Fri Oct 26 09:03:19 2018 +0100
+
+    added modifications to properties file
+
+[33mcommit 8222cc8355023a82cffa2f32fef15db7e2b307bc[m
+Author: Leo Henry <deleo.henry@gmail.com>
+Date:   Fri Oct 26 09:01:39 2018 +0100
+
+    I worked on the bank service classes
+
+[33mcommit bfaa4b25a7969989bb4e40fa2a9491f12fd44cf9[m
+Author: Leo Henry <deleo.henry@gmail.com>
+Date:   Thu Oct 25 02:51:20 2018 +0100
+
+    I modified the BankService and BankUserService
+
+[33mcommit dbfbda2775fcd13f9d7be763210b4c0866fd4b17[m
+Author: Leo Henry <deleo.henry@gmail.com>
+Date:   Wed Oct 24 14:23:20 2018 +0100
+
+    I worked on the BankUser request
+
+[33mcommit 4231e5b2c568707bbcaea49a2b077559489bc855[m
+Author: Leo Henry <deleo.henry@gmail.com>
+Date:   Wed Oct 24 08:50:57 2018 +0100
+
+    I worked on the BankService and BankUserService
+
+[33mcommit 5b6fcd438676ff2c61e9291a96430b1371b1c226[m
+Author: unknown <jtobiora@gmail.com>
+Date:   Tue Oct 23 06:14:24 2018 +0100
+
+    Added modifications for repositories (NibssRepo,UserRepo)
+
+[33mcommit c5277db2324ce1b6f29427fca1c34047b929a25a[m
+Author: unknown <jtobiora@gmail.com>
+Date:   Mon Oct 22 15:11:01 2018 +0100
+
+    Added modifications for ContactDetails dto
+
+[33mcommit 97febfd21c5d2b402988e543aa73641c5d398ef3[m
+Author: unknown <jtobiora@gmail.com>
+Date:   Mon Oct 22 12:31:32 2018 +0100
+
+    Added changes to biller model
+
+[33mcommit 10f3efe1e1c3015d73e2bb5a7f55ea9453316d3e[m
+Merge: 570724c 87e20d4
+Author: unknown <jtobiora@gmail.com>
+Date:   Mon Oct 22 11:21:22 2018 +0100
+
+    Added bank service and bank repo
+
+[33mcommit 570724c6ef5ccf8cc16adc1a2d360c298e6e5b89[m
+Author: unknown <jtobiora@gmail.com>
+Date:   Mon Oct 22 09:42:14 2018 +0100
+
+    Made changes on BillerUser model
+
+[33mcommit 87e20d4377d34f05b3de79cfb318c7693675260f[m
+Merge: 570351c f15d5e9
+Author: Leo Henry <deleo.henry@gmail.com>
+Date:   Thu Oct 18 10:00:44 2018 +0100
+
+    Merge branch 'master' of https://bitbucket.org/upperlink/cmms2-lib
+
+[33mcommit 570351c6ba3f499144927ea1b8d9920c387d44c3[m
+Author: Leo Henry <deleo.henry@gmail.com>
+Date:   Thu Oct 18 10:00:07 2018 +0100
+
+    i worked on the bank repositories and their service classes
+
+[33mcommit f15d5e91f109519811e1a4b421d9517babe79221[m
+Author: unknown <jtobiora@gmail.com>
+Date:   Wed Oct 17 14:25:57 2018 +0100
+
+    Modified Nibss User creation service
+
+[33mcommit 7012b4e85102bdcdca3d0fe54cfedd4879e22fd5[m
+Author: unknown <jtobiora@gmail.com>
+Date:   Sat Oct 13 18:17:37 2018 +0100
+
+    Added NibssUser
+
+[33mcommit 2a959bee396aee49ba4bfbb4d52c5b2346ac8a06[m
+Author: unknown <jtobiora@gmail.com>
+Date:   Fri Oct 12 11:42:52 2018 +0100
+
+    Added Products and Billers
+
+[33mcommit 7d5f9f13dd2e9c28b9aa29c1827ebfd75d095daa[m
+Author: unknown <jtobiora@gmail.com>
+Date:   Thu Oct 11 17:43:51 2018 +0100
+
+    CMMS Library Module
